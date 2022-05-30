@@ -1,2 +1,5 @@
-console.log("estamos trabajando 2");
-console.warn("esto es un warn");
+var edad;
+var puntos;
+edad = 22;
+puntos = 11;
+console.log(edad + puntos);
